@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"world.ntdi.jitpacklearning","c":"JitPackLearning","l":"addTwo(int, int)","u":"addTwo(int,int)"},{"p":"world.ntdi.jitpacklearning","c":"JitPackLearning","l":"JitPackLearning()","u":"%3Cinit%3E()"},{"p":"world.ntdi.jitpacklearning","c":"JitPackLearning","l":"runTest(String)","u":"runTest(java.lang.String)"}];updateSearchResults();
